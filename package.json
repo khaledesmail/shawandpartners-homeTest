@@ -1,0 +1,20 @@
+{
+  "name": "shawandpartners",
+  "version": "1.0.0",
+  "description": "shawandpartners home test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "jest"
+  },
+  "author": "Khaled",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.55.0",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
